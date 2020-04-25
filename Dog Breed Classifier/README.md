@@ -105,8 +105,8 @@ jupyter notebook dog_app.ipynb
 
 
 ## Instructions to run the App
-1. FlaskApp [here]()
-2. PythonScript [here]()
+1. FlaskApp [here](https://github.com/arpank97/Data-Scientist-NanoDegree-Udacity/tree/master/Dog%20Breed%20Classifier/DogPredictionApp/FlaskApp)
+2. PythonScript [here](https://github.com/arpank97/Data-Scientist-NanoDegree-Udacity/tree/master/Dog%20Breed%20Classifier/DogPredictionApp/PythonScript)
 
 
 ### Mehodology
