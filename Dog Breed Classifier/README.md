@@ -104,9 +104,9 @@ jupyter notebook dog_app.ipynb
 12. (Optional) **If you are running the project on your local machine (and not using AWS)**, before running code, change the kernel to match the dog-project environment by using the drop-down menu (**Kernel > Change kernel > dog-project**). Then, follow the instructions in the notebook.
 
 
-## Instruction to run the `dog_app.py`
-1. `cd DogPredictionApp`
-2. `python dog_app.py -i "path to image file"`
+## Instructions to run the App
+1. FlaskApp [here]()
+2. PythonScript [here]()
 
 
 ### Mehodology
