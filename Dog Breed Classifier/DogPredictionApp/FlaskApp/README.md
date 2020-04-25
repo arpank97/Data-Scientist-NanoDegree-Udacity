@@ -4,3 +4,7 @@
 3. Open any browser and go to `http://127.0.0.1:5000`
 4. Upload any image 
 5. Voila!! There's your prediction!!!
+
+
+
+---> To create your own Flask app follow the tutorial - [here](https://stackschool.io/quick-image-classifier-web-application-with-flask-keras-and-bokeh/) <---
